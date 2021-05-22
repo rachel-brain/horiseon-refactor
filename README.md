@@ -1,7 +1,7 @@
 # horiseon-refactor
 BOOTCAMP - Week 1 homework assignment
 
-<!-- * Repository contains quality README file with screenshot, and link to deployed application. -->
+<!-- * Repository contains quality README file with screenshot. -->
 
 ## Description
 
