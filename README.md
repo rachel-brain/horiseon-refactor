@@ -45,4 +45,6 @@ The image in the Assets folder shows the web application's appearance and functi
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/75958061/119249877-95303e00-bbdf-11eb-8eba-bf0c51d9fd7e.png)
+![image](https://user-images.githubusercontent.com/75958061/119250034-a0d03480-bbe0-11eb-9da8-cd6266959351.png)
+
+![image](https://user-images.githubusercontent.com/75958061/119250054-c0fff380-bbe0-11eb-8904-13b9d2d8045c.png)
