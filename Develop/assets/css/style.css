@@ -52,7 +52,6 @@ p {
     font-size: 16px;
 }
 
-/* Note that no alternative caption was added for the hero in the html as this is not required for a hero image. */
 .hero {
     height: 800px;
     width: 100%;

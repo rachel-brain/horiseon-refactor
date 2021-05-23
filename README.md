@@ -1,13 +1,9 @@
 # horiseon-refactor
 BOOTCAMP - Week 1 homework assignment
 
-<!-- * Repository contains quality README file with screenshot. -->
-
 ## Description
 
-This homework required the code to be refactored, where required, to improve both semantics of the 
-html & accessability of the website.  Comments have been added wherever changes were made to explain 
-why these are improvements to the original code. 
+This homework required the code to be refactored, where required, to improve both semantics of the html & accessability of the website.  Comments have been added wherever changes were made to explain why these are improvements to the original code. 
 
 ## User Story
 
@@ -46,3 +42,7 @@ The image in the Assets folder shows the web application's appearance and functi
 * The URL of the GitHub repository:
 
     https://github.com/rachel-brain/horiseon-refactor
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/75958061/119249877-95303e00-bbdf-11eb-8eba-bf0c51d9fd7e.png)
